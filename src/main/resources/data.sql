@@ -1,0 +1,6 @@
+-- INSERT INTO "user" (email, password, role, status)
+-- VALUES
+--     ('user1@example.com', 'password1', 'MEMBER', 'ACTIVE'),
+--     ('user2@example.com', 'password2', 'PROJECT_MEMBER', 'ACTIVE'),
+--     ('user3@example.com', 'password3', 'PROJECT_ADMIN', 'DORMANT'),
+--     ('user4@example.com', 'password4', 'MEMBER', 'ENDED');
